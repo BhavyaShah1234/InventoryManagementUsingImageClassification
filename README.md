@@ -1,0 +1,2 @@
+# InventoryManagementUsingImageClassification
+This is a project that uses image classification to take inventory/count/stock of existing products by just clicking pictures. The pictures are preprocessed and passed through a deep learning model that predicts their class from pre-defined classes on which the model is trained. Here the model is trained on apparel images with classes as pant, shirt and tshirt. The original idea was to use it for NGOs' donation inventory keeping but the use of this can be extended to any field that has something materialistic and can be counted.
